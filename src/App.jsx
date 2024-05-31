@@ -26,10 +26,6 @@ function App() {
         {
           path: "file-upload",
           element: <FileUpload/>,
-        },
-        {
-          path: "files-list",
-          element: <FileList/>
         }
       ]
 
